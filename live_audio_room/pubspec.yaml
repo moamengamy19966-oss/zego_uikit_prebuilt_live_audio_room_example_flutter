@@ -20,7 +20,7 @@ dependencies:
 dependency_overrides:
   zego_uikit: 2.28.23
   zego_uikit_signaling_plugin: 2.8.11
-  zego_plugin_adapter: 2.12.2
+  zego_plugin_adapter: 2.12.1
   zego_express_engine: 3.18.0
 
 

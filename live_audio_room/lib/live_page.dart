@@ -30,8 +30,9 @@ class LivePageState extends State<LivePage> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: ZegoUIKitPrebuiltLiveAudioRoom(
-        appID: yourAppID /*input your AppID*/,
-        appSign: yourAppSign /*input your AppSign*/,
+   appID: 2048585430,
+appSign: '54aea145112e158dc4396cc8dfe970b27ecc770ea5eeff13dbf490f60b1d7999',
+
         userID: localUserID,
         userName: 'user_$localUserID',
         roomID: widget.roomID,

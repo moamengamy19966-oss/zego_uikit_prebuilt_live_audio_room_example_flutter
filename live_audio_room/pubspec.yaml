@@ -18,10 +18,11 @@ dependencies:
   flutter_screenutil: ">=5.5.3+2 <5.6.1"
 
 dependency_overrides:
-  zego_uikit: 2.28.28
-  zego_uikit_signaling_plugin: 2.8.14
-  zego_plugin_adapter: 2.13.0
+  zego_uikit: 2.28.23
+  zego_uikit_signaling_plugin: 2.8.11
+  zego_plugin_adapter: 2.12.2
   zego_express_engine: 3.18.0
+
 
 
 
